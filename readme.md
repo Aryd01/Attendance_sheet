@@ -1,3 +1,4 @@
+Note - If you are using Jiofiber or jio sim switch on vpn or change the isp as images doesnot load with jiofiber it is a known issue
 # Attendance Sheet Application
 
 The Attendance Sheet Application is a web-based tool that allows users to manage and track attendance records for students. It provides a user-friendly interface using HTML and CSS for the frontend, Flask framework for the backend, and SQLite with SQLAlchemy for database management. This README file provides an overview of the application, installation instructions, and usage details.
@@ -66,3 +67,39 @@ or
 python app.py
 ```
 Access the application in your web browser at http://localhost:5000.
+
+## Screenshots
+
+![Login](https://github.com/Aryd01/Attendance_sheet/blob/master/results/login.JPG)
+
+
+
+![Register](https://github.com/Aryd01/Attendance_sheet/blob/master/results/add%20attendance%20page.JPG)
+
+
+![Homepage](https://github.com/Aryd01/Attendance_sheet/blob/master/results/homepage.JPG)
+
+![Daily attendance](https://github.com/Aryd01/Attendance_sheet/blob/master/results/Daily%20Attendance.JPG)
+
+![Avg attendance](https://github.com/Aryd01/Attendance_sheet/blob/master/results/Average%20attendance.JPG)
+
+![Search](https://github.com/Aryd01/Attendance_sheet/blob/master/results/Average%20attendance.JPG)
+
+## Suggestion and Contribution
+
+I welcome any suggestions or contributions to improve this project. Feel free to submit a pull request or open an issue on the GitHub repository.
+
+
+## 🚀 About Me
+Hi there! I'm a passionate full-stack developer with expertise in HTML, CSS, React, JavaScript, Python, and Flask. I love building web applications that are not only visually appealing but also highly functional and user-friendly.
+
+My experience in front-end development allows me to create responsive and intuitive user interfaces using HTML and CSS. I'm proficient in JavaScript and React, enabling me to develop interactive and dynamic web applications that enhance user experiences.
+
+On the back-end, I have extensive knowledge of Python and Flask, which enables me to build robust server-side applications. I'm skilled in designing RESTful APIs, handling data management, and implementing authentication systems.
+
+I'm constantly exploring new technologies and staying up-to-date with the latest industry trends to deliver high-quality and innovative solutions. I'm always eager to tackle new challenges and find creative ways to solve problems.
+
+If you have any questions, suggestions, or would like to collaborate on a project, feel free to reach out to me at arscien04@gmail.com. I'm open to exciting opportunities and would be happy to connect with you.
+
+
+
