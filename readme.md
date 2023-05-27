@@ -70,20 +70,35 @@ Access the application in your web browser at http://localhost:5000.
 
 ## Screenshots
 
+### Login Page
+
 ![Login](https://github.com/Aryd01/Attendance_sheet/blob/master/results/login.JPG)
 
 
 
+### Register Page
+
 ![Register](https://github.com/Aryd01/Attendance_sheet/blob/master/results/add%20attendance%20page.JPG)
 
 
+### Home Page
+
 ![Homepage](https://github.com/Aryd01/Attendance_sheet/blob/master/results/homepage.JPG)
+
+
+
+### Daily Atendance
 
 ![Daily attendance](https://github.com/Aryd01/Attendance_sheet/blob/master/results/Daily%20Attendance.JPG)
 
+### Average Attendance
+
 ![Avg attendance](https://github.com/Aryd01/Attendance_sheet/blob/master/results/Average%20attendance.JPG)
 
-![Search](https://github.com/Aryd01/Attendance_sheet/blob/master/results/Average%20attendance.JPG)
+### Search 
+
+![Search](https://github.com/Aryd01/Attendance_sheet/blob/master/results/search%20student%20with%20a%20roll%20no..JPG)
+
 
 ## Suggestion and Contribution
 
